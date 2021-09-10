@@ -1,0 +1,3 @@
+include ':stickylistviewlibrary'
+include ':app'
+rootProject.name = "sticky_listview"
